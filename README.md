@@ -1,7 +1,19 @@
 # Tarefa2SegundoBimestreLoopsPP
 Leonardo Dias dos Passos Brito - 23121300234
 
----------------------------------------------
+
+CRITÉRIOS ATENDIDOS:
+
+1) O aluno deve obrigatoriamente postar todo o código fonte no gitHub, e enviar o link de  acesso aqui no Google sala de aula para computar nota. O envio em outro formato não será considerado e receberá a nota zero.
+2) Não comprimir o arquivo com ZIP, RAR ou outro software de compressão, caso o aluno envie nesse formato, será atribuída nota zero.
+3) Códigos iguais receberão nota zero.
+4) Para a resolução de cada questão. O aluno deve copiar o enunciado.
+5) O código fonte deve ser comentado: explicar  como as funções, métodos e parâmetros funcionam, nos mínimos detalhes.
+
+
+
+Explicações não detalhadas do que foi pedido nos exercícios propostos:
+
 Q1: "Hello World" Paralelo
 Introdução ao OpenMP com regiões paralelas
 
