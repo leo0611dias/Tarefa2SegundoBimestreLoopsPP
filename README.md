@@ -12,7 +12,10 @@ CRITÉRIOS ATENDIDOS:
 
 
 
+
 Explicações não detalhadas do que foi pedido nos exercícios propostos:
+
+
 
 Q1: "Hello World" Paralelo
 Introdução ao OpenMP com regiões paralelas
