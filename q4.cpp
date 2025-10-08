@@ -2,7 +2,7 @@
 Lista de Exercícios — Programação Paralela (OpenMP)
 Prof. Rodrigo Gonçalves
 
-Exercício 4 — Medindo tempo por thread
+Exercício 4 — Medindo tempo por Thread
 Adapte o código do exercício anterior para:
 a) Medir e exibir o tempo total de execução.
 b) Medir e exibir o tempo gasto por cada thread.
